@@ -1,4 +1,4 @@
-Here's a simple README text for you:
+
 
 ---
 
@@ -11,4 +11,3 @@ You can access the files using the Dropbox link below:
 
 ---
 
-Replace "Your-Dropbox-Link" with the actual Dropbox URL, and you're all set!
